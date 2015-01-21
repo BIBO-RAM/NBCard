@@ -1,4 +1,4 @@
 # NBCard
 NBPS Digital ID:
-Please don't bleed to death while you are reading this code!!!
-Visit nbb folder if you are still brave enough
+This is a digital ID application designed to work with Skyward through manual HTTP authentification.
+(Terribly written) Source code is located in nbb folder.
